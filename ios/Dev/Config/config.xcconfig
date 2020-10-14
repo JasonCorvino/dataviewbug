@@ -1,5 +1,5 @@
 #include "../../Config/config.xcconfig"
 
 MAIN_STORY_BOARD = LaunchApp
-BUNDLE_DISPLAY_NAME = Dev - DataviewBug
+BUNDLE_DISPLAY_NAME = Dev - Datavew
 BUNDLE_IDENTIFIER_APPEND = .developerapp
