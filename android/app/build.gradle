@@ -33,7 +33,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.dataviewbug.mobile"
+        applicationId "com.mendix.DatavewBug"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         missingDimensionStrategy "react-native-camera", "general"
