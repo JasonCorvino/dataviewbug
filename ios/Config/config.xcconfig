@@ -1,6 +1,6 @@
 PRODUCT_BUNDLE_IDENTIFIER = com.mendix.DatavewBug
 
-BUNDLE_DISPLAY_NAME = Datavew
+BUNDLE_DISPLAY_NAME = DataviewBug
 BUNDLE_IDENTIFIER = com.mendix.DatavewBug
 
 RUNTIME_URL = http:\/\/localhost:8080
