@@ -1,6 +1,6 @@
-PRODUCT_BUNDLE_IDENTIFIER = com.mendix.DatavewBug
+PRODUCT_BUNDLE_IDENTIFIER = com.mendix.FileUpload
 
 BUNDLE_DISPLAY_NAME = Datavew
-BUNDLE_IDENTIFIER = com.mendix.DatavewBug
+BUNDLE_IDENTIFIER = com.mendix.FileUpload
 
 RUNTIME_URL = http:\/\/localhost:8080
