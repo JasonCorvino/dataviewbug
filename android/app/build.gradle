@@ -33,7 +33,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.mendix.DatavewBug"
+        applicationId "com.mendix.FileUpload"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         missingDimensionStrategy "react-native-camera", "general"
